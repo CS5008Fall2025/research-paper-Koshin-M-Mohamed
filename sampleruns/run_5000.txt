@@ -1,0 +1,10 @@
+Sample when N is 5000
+
+n = 5000
+bst height = 5000
+avl height = 13
+bst insert time = 61.57 ms
+avl insert time = 0.97 ms
+bst search time = 48.58 ms
+avl search time = 0.46 ms
+avl rotations = 4987

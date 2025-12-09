@@ -1,0 +1,8 @@
+When N = 1000
+
+avl height = 10
+bst insert time = 1.69 ms
+avl insert time = 0.13 ms
+bst search time = 1.58 ms
+avl search time = 0.06 ms
+avl rotations = 990
